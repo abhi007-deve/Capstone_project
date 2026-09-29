@@ -1,0 +1,8 @@
+{
+  "name": "FinLoan AI",
+  "description": "Smarter Financial Decisions. Powered by AI. Intelligent loan eligibility checker, credit score analyzer, interactive EMI calculator, and financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

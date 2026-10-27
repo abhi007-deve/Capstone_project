@@ -1,3 +1,6 @@
+Demo video link:
+https://drive.google.com/file/d/1gTdA7A-Y-qQBBPcPE1Q21klAVmekj6z7/view?usp=drivesdk
+
 FinLoan AI 🚀
 Institutional-Grade Loan Eligibility, Credit Analytics & Smart Financial Intelligence Platform
 Overview
